@@ -1,6 +1,6 @@
 project(pbrpc_srv)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -L/usr/local/lib -lprotobuf -pthread")
 
 set(pbrpc_srv_SRCS
     main.cpp

@@ -1,6 +1,6 @@
 #include "handle_pbrpc.hh"
 
-#include <ServiceManager.hh>
+#include <pbrpc/ServiceManager.hh>
 
 #include "service/Ping.hh"
 
