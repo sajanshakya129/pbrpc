@@ -1,6 +1,6 @@
 [submodule "deps/libpbrpc"]
 	path = deps/libpbrpc
-	url = https://github.com/madwyn/libpbrpc
+	url = https://github.com/sajanshakya129/libpbrpc.git
 [submodule "deps/mongoose"]
 	path = deps/mongoose
 	url = https://github.com/madwyn/mongoose
